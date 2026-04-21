@@ -1,4 +1,4 @@
 # Development Activity Log
-Last updated: 2026-04-20T14:41:10Z
-Entry: chore: prune redundant imports and clean code comments
-Sequence: 23/102
+Last updated: 2026-04-21T15:56:55Z
+Entry: fix: ensure graceful socket teardown on unexpected process exit
+Sequence: 24/102
